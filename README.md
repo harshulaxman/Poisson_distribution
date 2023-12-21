@@ -73,6 +73,7 @@ else:
 
 # Output : 
 
+![image](https://github.com/harshulaxman/Poisson_distribution/assets/145686689/2629970c-949a-443a-b4f7-17ca95499d53)
 
 
 # Results
